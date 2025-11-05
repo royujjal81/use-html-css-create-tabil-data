@@ -1,0 +1,7 @@
+#TABIL,table,th,td{
+    border: 1px solid red;
+    text-align: center;
+    color: black;
+    border-style: double;
+    border-style: ridge;
+}
